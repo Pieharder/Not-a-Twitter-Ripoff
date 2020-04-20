@@ -4,7 +4,7 @@ import Post from "./Post/Post";
 const masterPostList = [
   {
     name: "bob",
-    content: "words are hard"
+    content: <img className="postPic" src='https://i.imgur.com/Aou2YAV.png' alt='post' />
   },
   {
     name: "Todd",
