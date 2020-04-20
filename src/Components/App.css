@@ -1,5 +1,7 @@
 body {
+  background-color: #9DBD8E;
   background-image: url(../img/background3.png);
+  background-repeat: no-repeat;
 }
 
 .post {
