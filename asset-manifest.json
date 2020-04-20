@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Not-a-Twitter-Ripoff/static/css/main.a2dd1b0e.chunk.css",
+    "main.js": "/Not-a-Twitter-Ripoff/static/js/main.7fb484b7.chunk.js",
+    "main.js.map": "/Not-a-Twitter-Ripoff/static/js/main.7fb484b7.chunk.js.map",
+    "runtime-main.js": "/Not-a-Twitter-Ripoff/static/js/runtime-main.0ddaadb3.js",
+    "runtime-main.js.map": "/Not-a-Twitter-Ripoff/static/js/runtime-main.0ddaadb3.js.map",
+    "static/js/2.965de165.chunk.js": "/Not-a-Twitter-Ripoff/static/js/2.965de165.chunk.js",
+    "static/js/2.965de165.chunk.js.map": "/Not-a-Twitter-Ripoff/static/js/2.965de165.chunk.js.map",
+    "index.html": "/Not-a-Twitter-Ripoff/index.html",
+    "precache-manifest.8e6e086649e0afa7056cd789c1b58afa.js": "/Not-a-Twitter-Ripoff/precache-manifest.8e6e086649e0afa7056cd789c1b58afa.js",
+    "service-worker.js": "/Not-a-Twitter-Ripoff/service-worker.js",
+    "static/css/main.a2dd1b0e.chunk.css.map": "/Not-a-Twitter-Ripoff/static/css/main.a2dd1b0e.chunk.css.map",
+    "static/js/2.965de165.chunk.js.LICENSE.txt": "/Not-a-Twitter-Ripoff/static/js/2.965de165.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Not-a-Twitter-Ripoff/static/media/background3.8ac54729.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ddaadb3.js",
+    "static/js/2.965de165.chunk.js",
+    "static/css/main.a2dd1b0e.chunk.css",
+    "static/js/main.7fb484b7.chunk.js"
+  ]
+}
