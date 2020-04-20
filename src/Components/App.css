@@ -1,38 +1,57 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.post {
+  border: 1px solid black;
+  padding: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.postStream {
+  border: 1px solid black;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+.postPic{
+  height: 200px;
+  width: auto;
+}
+
+.userInfo {
+  border: 2px solid black;
+  margin-bottom: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.userPic {
+  height: 100px;
+  width: 150px;
+  border-radius: 25px;
+  border: 2px solid black;
+  margin: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.mainFeed {
+  display: flex;
+  justify-content: center;
+}
+
+.suggestedUsers {
+  border: 1px solid black;
+  width: 5opx;
+  margin: 10px;
+  padding: 10px;  
+  display: flex;
+  justify-content: flex-end;
+  
+}
+
+.Suggestions {
+  position: absolute;
+  right: 20%;
 }
