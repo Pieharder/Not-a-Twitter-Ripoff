@@ -7,12 +7,12 @@ const masterPostList = [
     content: <img className="postPic" src='https://i.imgur.com/Aou2YAV.png' alt='post' />
   },
   {
-    name: "Todd",
-    content: "I have no idea how to react"
+    name: "Todd on React",
+    content: <img className="postPic" src='https://i.imgur.com/PZcZHVf.png' alt='post' />
   },
   {
     name: "Donald Trump",
-    content: "It's almost like the United States has no President - we are a rudderless ship heading for a major disaster. Good luck everyone!"
+    content: <img className="postPic" src='https://i.chzbgr.com/full/9159664384/hE0B2ABEB/trump-memes-meme-of-donald-trump-pulling-a-little-flag-out-of-his-nose' alt='post' />
   },
   {
     name: "Mr PoopyButtHole",
